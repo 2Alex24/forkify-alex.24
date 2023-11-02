@@ -7,7 +7,7 @@
 ### Project Introduction
 
 Forkify is a recipe web app using the Forkify API to allow users to search, view, modify, bookmark and add recipes.
-![f6](readme.assets/f6.png)
+![f6](readme.assets/f6.PNG)
 
 ## Technologies used
 
@@ -53,3 +53,9 @@ npm i
 ```sh
 npm start
 ```
+
+## Project Architecture
+
+![f7](readme.assets/f7.PNG)
+![f8](readme.assets/f8.png)
+![f9](readme.assets/f9.png)
