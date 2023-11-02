@@ -23,6 +23,7 @@ Forkify is a recipe web app using the Forkify API to allow users to search, view
 ## Features
 
 - Query an ingredient to recieve a list of recipes containing that ingredient.
+  ![f1](readme.assets/f1.gif)
 - Change the servings size to alter the needed ingreident count proportionally.
 - Easily bookmark or unbookmard the selected recipe.
 - Create your own recipes and store them as user recipes
